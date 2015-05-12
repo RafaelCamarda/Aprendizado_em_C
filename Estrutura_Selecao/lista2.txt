@@ -1,0 +1,24 @@
+1) Escreva um programa que receba um número e diga se este é maior do que vinte.
+	código: {maior_que_vinte.c}
+
+2) Escreva um programa que receba três inteiros e diga qual é o maior entre eles.
+	código: {max_entre_3.c}
+
+3) Crie um programa que recebe um número e diga se este é par ou ímpar.
+	código: {par_impar.c}
+
+4) Crie um programa que recebe um número e diga se este é positivo, negativo ou nulo.
+	código: {positivo_negativo_nulo.c}
+
+5) Crie um programa que receba o peso de um usuário, calcula o IMC deste, e diga em qual faixa ele se encaixa.
+	código: {imc.c}
+
+6) Crie um programa que receba uma equação de segundo grau e calcule suas raízes. O programa deve tratar o caso de delta negativo, encerrando o mesmo.
+	código: {equacao_segundo_grau.c}
+
+7) Crie um programa que receba três notas, calcule a média e trate os seguintes casos: 
+	  media >= 6.0 -> O aluno passou.
+	  media maior que 5 e menor que 6 -> O aluno tem direito a fazer prova extra.
+	  media maior que 4.0 ou maior ou igual a 5 -> O aluno tem direito a fazer prova final.
+	  media menor que 4 -> O aluno está reprovado.
+	código: {avalia_nota.c}

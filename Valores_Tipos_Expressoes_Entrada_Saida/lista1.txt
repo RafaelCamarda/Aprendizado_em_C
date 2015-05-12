@@ -1,0 +1,14 @@
+1) Este é o nosso primeiro programa em C, o famoso hello_world.
+	código: {hello_world.c}
+
+2) Crie um programa para calcular a área de um trinângulo.
+	código: {area_triangulo.c}
+
+3) Crie um programa para converter graus Celsius para Fahrenheit. O usuário deve digitar a temperatura em Celsius e imprimir a temperatura convertida.
+	código: {celsius_fahrenheit.c}
+
+4) Crie um programa que receba três números inteiros e imprima a média dos três valores.
+	código: {media.c}
+
+5) Crie um programa que receba o valor de duas variáveis A e B. Em seguida o programa deve trocar o valor das variáveis.
+	código: {swap.c}

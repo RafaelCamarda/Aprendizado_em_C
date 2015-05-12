@@ -1,0 +1,14 @@
+1) Escreva um programa efetue a soma de números de 0 até n, onde n é um nuúmero digitado pelo usuário.
+	código: {soma_for.c}
+
+2) Efetue um programa que some o peso de pessoas que tenham mais de 30 anos. O usuário deve poder digitar o caracter 's' enquanto desejar continuar entrando com pessoas e digitar 'n' para sair.
+	código: {soma_peso_idade_30.c}
+
+3) Crie um programa utilizando switch_case que permita ao usuário utilizar uma espécie de calculadora, contendo as funções de somar e subtrair. O usuário deve digitar um caracter para sair do programa. O programa deve também, tratar opções inválidas.
+	código: {soma_subtrai_switch.c}
+
+4) Crie para realizar somas enquanto o usuário desejar e no fim, exibir o resultado total.
+	código: {soma_while.c}
+
+5) Você irá criar um jogo, chamado jogo da adivinhação. O programa irá sortear um número aleatório entre 0 e 1000. Alternadamente, dois jogadores tentaram adivinhar o valor desse número. A cada jogada, o programa deve informar se o número é maior ou menor que o digitado pelo jogador 1 ou 2. O jogo acaba e para imediatamente quando e somente quando, um jogador acertar o número.
+	código: {jogo_adivinhacao.c}
